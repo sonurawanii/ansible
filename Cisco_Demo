@@ -1,6 +1,6 @@
 ---
 - name: Cisco IOS Command Demo
-  hosts: routers
+  hosts: switches
 
   tasks:
     - name: Execute show commands
